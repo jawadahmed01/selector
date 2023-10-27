@@ -1,0 +1,86 @@
+/* Universal Selector in Css Start */
+
+/* * {
+  color: red;
+  padding: 0;
+  margin: 0;
+} */
+
+/* Universal Selector in Css End */
+
+/* Type Selector in CSS Start */
+
+/*This single type selector */
+/* h1 {
+  color: tomato;
+  background-color: aqua;
+} */
+
+/*This multiple type selector */
+/* h2,
+span {
+  color: blue;
+  background-color: red;
+} */
+/* Type Selector in CSS End */
+
+/* Class Selector in css start */
+
+/* .list-item {
+  color: blue;
+  background-color: yellow;
+}
+.selector {
+  text-align: center;
+  font-size: 40px;
+  color: black;
+} */
+
+/* Class Selector in css end */
+
+/* ID Selector in css start */
+
+/* #list {
+  background-color: blueviolet;
+  color: black;
+}
+#heading-2 {
+  text-align: center;
+} */
+/* ID Selector in css end */
+
+/* child Selector in css start */
+/* #list > li {
+  color: yellow;
+  list-style: none;
+}
+.btn > a {
+  text-decoration: none;
+  color: red;
+} */
+/* Child Selector in css end */
+
+/* Dcendent Selector in css start */
+
+/* ul li {
+  background-color: red;
+  color: black;
+}
+.heading-2 span {
+  color: red;
+} */
+
+/* adjiusted Selector in css start */
+/* h1 + p {
+  color: blue;
+  background-color: red;
+} */
+/* adjiusted Selector in css End */
+
+/* General Selector in css start */
+/* h1 ~ p {
+  color: black;
+  background-color: red;
+  font-size: 30px;
+} */
+/* GeneralSelector in css End */
